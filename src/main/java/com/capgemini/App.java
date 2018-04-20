@@ -1,8 +1,9 @@
 package com.capgemini;
 
 /**
- * Hello world!
- *
+ *Hunger Games simulator
+ * By Luca Dolstra
+ * 20/04/2018
  */
 public class App 
 {
